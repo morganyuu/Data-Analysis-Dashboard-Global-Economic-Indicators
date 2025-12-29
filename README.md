@@ -1,0 +1,2 @@
+# Data-Analysis-Dashboard-Global-Economic-Indicators
+An interactive Tableau dashboard analyzing macroeconomic indicators for 200+ countries from 2010 to 2015 using a dataset sourced from Kaggle. Users can dynamically select economic statistics via parameters and calculated fields to explore trends on a global map and accompanying charts, with color-coded visualizations and legends for clear insights.
